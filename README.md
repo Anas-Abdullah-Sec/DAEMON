@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # 🛡️ DAEMON — Attack Surface Mapping & Recon Suite
@@ -138,7 +137,3 @@ Upon completion, DAEMON generates an executive report containing:
 
 * 🌐 **GitHub:** @Anas-Abdullah-Sec
 * 💼 **LinkedIn:** Anas Abdullah
-
-```
-
-```
