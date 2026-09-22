@@ -123,17 +123,17 @@ Upon completion, DAEMON generates an executive report containing:
 
 ---
 
-## ⚠️ Disclaimer
+⚠️ Disclaimer
+This tool is intended strictly for educational purposes and authorized security auditing. Usage of DAEMON against target systems without explicit prior consent is illegal. The author accepts no responsibility for unauthorized or malicious use.
 
-*This tool is intended strictly for **educational purposes** and **authorized security auditing**. Usage of DAEMON against target systems without explicit prior consent is illegal. The author accepts no responsibility for unauthorized or malicious use.*
+📜 License
+Distributed under the MIT License. See LICENSE for more information.
 
----
+👨‍💻 Author
+Anas Abdullah
 
-## 👨‍💻 Author
+Cybersecurity Enthusiast
 
-**Anas Abdullah**
+🌐 GitHub: @Anas-Abdullah-Sec
 
-*Cybersecurity Researcher & Network Security Enthusiast*
-
-* 🌐 **GitHub:** @Anas-Abdullah-Sec
-* 💼 **LinkedIn:** Anas Abdullah
+💼 LinkedIn: Anas Abdullah
