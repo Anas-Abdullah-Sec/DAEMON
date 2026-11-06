@@ -91,7 +91,7 @@ pip install reportlab
 ### 3. Clone Repository
 
 ```bash
-git clone [https://github.com/Anas-Abdullah-Sec/DAEMON.git](https://github.com/Anas-Abdullah-Sec/DAEMON.git)
+git clone https://github.com/Anas-Abdullah-Sec/DAEMON.git
 cd DAEMON
 
 ```
